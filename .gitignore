@@ -1,0 +1,15 @@
+# Python garbage
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# IDE stuff (PyCharm)
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+text.py
